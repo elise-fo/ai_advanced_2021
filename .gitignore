@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # data
+petfinder-pawpularity-score/
 *.jpg
 *.jpeg
 *.png
@@ -81,6 +82,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+Exploration phase.ipynb
 
 # IPython
 profile_default/
