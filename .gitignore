@@ -11,6 +11,7 @@ petfinder-pawpularity-score/
 *.jpg
 *.jpeg
 *.png
+vgg16_model.h5
 
 # Distribution / packaging
 .Python
